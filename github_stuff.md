@@ -1,0 +1,3 @@
+- https://github.com/settings/tokens
+- repo, workspace, gist
+- Token as password
