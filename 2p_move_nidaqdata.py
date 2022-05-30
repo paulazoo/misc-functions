@@ -1,7 +1,7 @@
 import os
 base_dir = 'F:/2p/stephen/'
 mouse = 'SZ879'
-date = '220516'
+date = '220518'
 
 # F:/2p/stephen/SZ885/220508_SZ885/220508_SZ885_run1
 folder_base = base_dir+mouse+'/'+date+'_'+mouse+'/'+ date + '_' + mouse + '_run'

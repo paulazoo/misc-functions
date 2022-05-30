@@ -1,8 +1,8 @@
 import os
 base_dir = 'F:/2p/stephen/'
-mouse = 'SZ879'
-date = '220516'
-num_folders = 16
+mouse = 'SZ885'
+date = '220518'
+num_folders = 28
 
 do_flim_folders = True
 
